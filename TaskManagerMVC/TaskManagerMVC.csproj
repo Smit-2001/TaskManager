@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\TaskManagerShared.csproj" />
+    <ProjectReference Include="..\TaskManagerShared\TaskManagerShared.csproj" />
   </ItemGroup>
 
 </Project>
